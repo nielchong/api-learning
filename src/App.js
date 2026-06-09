@@ -4,9 +4,9 @@ import CreateKnowledgeForm from './CreateKnowledgeForm';
 
 function App() {
 
-    const apiUrl = 'http://47.128.148.123/v1/datasets';
+    const apiUrl = 'path_to_url';
 
-    const apiKey = 'dataset-03Z9UFsnQMyzR9Z6ToG4RgMK';
+    const apiKey = 'path_to_api_key';
   
     const page = 1;
     const limit = 20;
